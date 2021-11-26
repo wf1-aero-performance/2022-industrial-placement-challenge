@@ -12,7 +12,7 @@ Follow the instruction in the notebook for each of the tasks provided. A sample 
 * Task 1 : using the measured accelerations, reconstruct the trajectory of the car in the horizontal plane to be able to plot the map of the track, the racing line
 * Task 2 : with the channel provided, calculate and plot against “slap” the normalized coefficients of front and rear downforce assuming a reference area of 1 m^2
 * Task 3 : calculate the total downforce and aero balance and plot against “slap”
-* Task 4 : plot a view of the racing line coloured in red for the part of the lap where the driver is “grip limited” and blue where the driver is “power limited”
+* Task 4 : plot a view of the racing line coloured in red for the part of the lap where the driver is “grip limited” and blue where the driver is “power limited” assuming the driver is always driving at the limit of the car
 * Task 5 : derived from the previous work an average value for the “power limited” drag and the “grip limited” total downforce
 * Task 6 : from the above calculate the aerodynamic efficiency of this car
 
